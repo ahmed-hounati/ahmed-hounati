@@ -3,15 +3,10 @@
 👀 I'm interested in:
 - Software Development
 - Artificial Intelligence
-- Machine Learning
-- Data Science
 - Web Development
 - Open Source Projects
 
 🌱 I'm currently learning:
-- Advanced Python Programming
-- Deep Learning Techniques
-- Cloud Computing
 - Full-Stack Web Development
 
 💞️ I'm looking to collaborate on:
