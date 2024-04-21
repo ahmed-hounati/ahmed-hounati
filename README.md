@@ -16,5 +16,5 @@
 📫 How to reach me:
 - Email: [ahmedhounati9@email.com]
 - LinkedIn: [linkedin](https://www.linkedin.com/public-profile/settings)
-Feel free to connect with me and explore my projects on GitHub!
+- Feel free to connect with me and explore my projects on GitHub!
 
