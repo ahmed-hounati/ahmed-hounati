@@ -12,7 +12,6 @@
 💞️ I'm looking to collaborate on:
 - Open-source projects related to my areas of interest
 - Exciting software development projects
-- Research initiatives in AI and Machine Learning
 
 📫 How to reach me:
 - Email: [ahmedhounati9@email.com]
